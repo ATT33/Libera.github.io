@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis ASSIGNON-MEGAN Gnagnuie Libera
+#  Bonjour, je suis ASSIGNON-MEGAN Gnagnuie Libera
 
 ### 💻 Ingénieur logiciel en devenir | Développeur Web | Systèmes & Réseaux | Architecture logicielle
 
