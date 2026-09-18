@@ -1,6 +1,6 @@
 #  Bonjour, je suis ASSIGNON-MEGAN Gnagnuie Libera
 
-### 💻 Ingénieur logiciel en devenir | Développeur Web | Systèmes & Réseaux | Architecture logicielle
+###  Ingénieur logiciel en devenir | Développeur Web | Systèmes & Réseaux | Architecture logicielle
 
 > **Je transforme les besoins réels en solutions numériques utiles, accessibles et évolutives.**
 
@@ -12,26 +12,26 @@ Je m'intéresse particulièrement à la conception de solutions numériques rép
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
-* 🎓 Licence en Sciences et Technologies — Génie Logiciel
-* 🎓 Master 1 — Architecture Logicielle
-* 💻 Passionné par le développement informatique et les nouvelles technologies
-* 🌱 Intérêt particulier pour la **digitalisation de l'agriculture**
-* 🏫 Intérêt pour les **solutions numériques éducatives**
-* 🖥️ Expérience en maintenance informatique et réseaux
-* 👨‍💻 Expérience en développement d'applications
-* 👥 Expérience en supervision et formation d'équipes
-* 📊 Intérêt pour les architectures logicielles, les données et les systèmes d'information
-* 🌍 Basé à Lomé, Togo
-* 🚗 Permis B
-* 📌 Ouvert aux opportunités et à la mobilité
+*  Licence en Sciences et Technologies — Génie Logiciel
+*  Master 1 — Architecture Logicielle
+   Passionné par le développement informatique et les nouvelles technologies
+*  Intérêt particulier pour la **digitalisation de l'agriculture**
+*  Intérêt pour les **solutions numériques éducatives**
+*  Expérience en maintenance informatique et réseaux
+*  Expérience en développement d'applications
+*  Expérience en supervision et formation d'équipes
+*  Intérêt pour les architectures logicielles, les données et les systèmes d'information
+*  Basé à Lomé, Togo
+*  Permis B
+*  Ouvert aux opportunités et à la mobilité
 
 ---
 
-# 🛠️ Stack technique
+#  Stack technique
 
-### 💻 Développement
+###  Développement
 
 ```text
 HTML        ████████████████████
@@ -51,14 +51,14 @@ PHP         ███████████████
 * JavaScript
 * HTML5 / CSS3
 
-### 🗄️ Bases de données
+###  Bases de données
 
 * PostgreSQL
 * MySQL
 * Oracle
 * NoSQL
 
-### 🧩 Conception & architecture
+###  Conception & architecture
 
 * POO
 * UML
@@ -67,7 +67,7 @@ PHP         ███████████████
 * Architectures distribuées
 * Cloud Computing
 
-### 🖥️ Systèmes, réseaux & support
+###  Systèmes, réseaux & support
 
 * Maintenance informatique
 * Installation et configuration des systèmes
@@ -80,9 +80,9 @@ PHP         ███████████████
 
 ---
 
-# 🌟 Projets
+#  Projets
 
-## 🌱 MySmartCrops — Agriculture intelligente
+##  MySmartCrops — Agriculture intelligente
 
 **MySmartCrops** est un projet orienté vers la digitalisation du secteur agricole.
 
@@ -90,12 +90,12 @@ L'idée consiste à utiliser les technologies numériques pour faciliter l'accè
 
 Le projet s'inscrit dans une vision plus large de l'**agriculture intelligente et de la technologie agricole**, avec notamment :
 
-* 🛒 commande de produits agricoles en ligne
-* 👨‍🌾 mise en relation producteurs / consommateurs
-* 📢 visibilité des produits agricoles
-* 🌦️ intégration potentielle des données météorologiques
-* 💰 opportunités d'investissement agricole
-* 📱 approche Web et mobile
+*  commande de produits agricoles en ligne
+*  mise en relation producteurs / consommateurs
+*  visibilité des produits agricoles
+*  intégration potentielle des données météorologiques
+*  opportunités d'investissement agricole
+*  approche Web et mobile
 
 **Technologie / domaine :** Agriculture numérique · Web · Mobile · Digitalisation
 
@@ -105,7 +105,7 @@ Le projet s'inscrit dans une vision plus large de l'**agriculture intelligente e
 
 ---
 
-## 🌐 Portfolio personnel
+##  Portfolio personnel
 
 Mon portfolio GitHub rassemble mon parcours, mes compétences, mes expériences professionnelles, mes formations et mes différents projets informatiques.
 
@@ -127,7 +127,7 @@ Un espace dédié à la présentation de mon profil professionnel, de mon parcou
 
 ---
 
-## 🤝 Togo Tech Communities
+##  Togo Tech Communities
 
 Projet open source visant à mettre en avant les **communautés technologiques au Togo** et à faciliter leur découverte.
 
@@ -143,7 +143,7 @@ J'ai intégré ce projet dans mon parcours GitHub comme une expérience autour d
 
 ---
 
-## 🏫 Projets académiques
+##  Projets académiques
 
 Mon parcours à l'Institut Polytechnique DEFITECH m'a permis de travailler sur plusieurs problématiques liées au :
 
@@ -161,9 +161,9 @@ Mon parcours à l'Institut Polytechnique DEFITECH m'a permis de travailler sur p
 
 ---
 
-# 💼 Expérience professionnelle
+#  Expérience professionnelle
 
-### 🖥️ Superviseur technique — Projet WURI / INSEED-TOGO
+###  Superviseur technique — Projet WURI / INSEED-TOGO
 
 Depuis février 2024.
 
@@ -178,7 +178,7 @@ Depuis février 2024.
 
 ---
 
-### 🧑‍🏫 Assistant technique & Formateur — CENI
+###  Assistant technique & Formateur — CENI
 
 **Mars 2025 – Avril 2025**
 
@@ -191,7 +191,7 @@ Depuis février 2024.
 
 ---
 
-### 🖥️ Maintenance informatique & réseaux — INTELLO DESIGN
+###  Maintenance informatique & réseaux — INTELLO DESIGN
 
 **Février 2024 – Octobre 2024**
 
@@ -204,7 +204,7 @@ Depuis février 2024.
 
 ---
 
-# 🎓 Formation
+#  Formation
 
 ### Master 1 — Architecture Logicielle
 
@@ -226,7 +226,7 @@ Architecture logicielle avancée · Cloud Computing · Architectures distribuée
 
 ---
 
-# 🧠 Ce que je peux apporter
+#  Ce que je peux apporter
 
 ```text
 Développement logiciel
@@ -248,22 +248,22 @@ Je cherche à développer des solutions qui ne se limitent pas au code, mais qui
 
 ---
 
-# 📚 Actuellement
+#  Actuellement
 
 Je poursuis mon évolution dans les domaines de :
 
-* 🏗️ Architecture logicielle
-* ☁️ Cloud Computing
-* 🧠 Intelligence artificielle
-* 📊 Big Data
-* 🌐 Développement Web
-* 🗄️ Bases de données
-* 🔐 Systèmes d'information
-* 🚀 Technologies numériques
+*  Architecture logicielle
+*  Cloud Computing
+*  Intelligence artificielle
+*  Big Data
+*  Développement Web
+*  Bases de données
+*  Systèmes d'information
+*  Technologies numériques
 
 ---
 
-# 🌍 Langues
+#  Langues
 
 🇫🇷 **Français** — Langue maternelle
 🇬🇧 **Anglais** — Niveau B2
@@ -271,7 +271,7 @@ Je poursuis mon évolution dans les domaines de :
 
 ---
 
-# 🎯 Objectif professionnel
+#  Objectif professionnel
 
 Mon objectif est de devenir un **ingénieur logiciel capable de concevoir, développer et déployer des solutions informatiques modernes**, tout en continuant à développer mon expertise en architecture logicielle, systèmes d'information, données et technologies émergentes.
 
@@ -279,11 +279,11 @@ Je suis particulièrement intéressé par les projets ayant un **impact concret 
 
 ---
 
-# 📫 Me contacter
+#  Me contacter
 
-📧 **Email :** [libegnagnuie@gmail.com](mailto:libegnagnuie@gmail.com)
-📍 **Lomé, Togo**
-📱 **Téléphone :** +228 93 89 08 99
+ **Email :** [libegnagnuie@gmail.com](mailto:libegnagnuie@gmail.com)
+ **Lomé, Togo**
+ **Téléphone :** +228 93 89 08 99
 
 ### GitHub
 
@@ -291,15 +291,15 @@ Je suis particulièrement intéressé par les projets ayant un **impact concret 
 
 ---
 
-# ⭐ Merci de visiter mon profil !
+#  Merci de visiter mon profil !
 
 Si vous êtes intéressé par une collaboration, un projet informatique, une opportunité professionnelle ou un échange autour de la technologie, n'hésitez pas à me contacter.
 
-> **Code. Learn. Build. Innovate. 🚀**
+> **Code. Learn. Build. Innovate. **
 
 ---
 
-### 📌 Dépôts principaux
+###  Dépôts principaux
 
 * `ATT33/ATT33` — Profil GitHub & portfolio
 * `ATT33/mysmartcrops` — Agriculture numérique
