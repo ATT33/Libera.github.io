@@ -216,7 +216,7 @@ Architecture logicielle avancée · Cloud Computing · Architectures distribuée
 
 **Institut Polytechnique DEFITECH — Lomé**
 
-**Mention Bien**
+**Mention Assez-Bien**
 
 ### Baccalauréat Électronique — Série F2
 
